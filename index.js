@@ -11,7 +11,7 @@ function writeCards(names, events) {
   return thankyou
 }
 
-function(countdown) {
+function countdown(countdown) {
   let countdown = 0; 
   
 }
