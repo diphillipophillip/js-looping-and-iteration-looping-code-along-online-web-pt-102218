@@ -12,6 +12,6 @@ function writeCards(names, events) {
 }
 
 function countdown(countdown) {
-  let countdown = 0; 
+  while countdown  
   
 }
