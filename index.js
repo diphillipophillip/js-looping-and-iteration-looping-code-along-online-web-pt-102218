@@ -6,6 +6,6 @@ const events = "birthday";
 function writeCards(names, events) {
   let thankyou = []; 
   for (let i = 0; i < names.length; i++) {
-    thankyou.push('Thank you, '${names[i]}', for the wonderful )
+    thankyou.push('Thank you, '${names[i]}', for the wonderful ${events})
   }
 }
